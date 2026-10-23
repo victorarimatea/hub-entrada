@@ -1,3 +1,16 @@
+## v2.3 — 2026-10-23
+
+**Tipo de alteração:** Atualização
+**Autorizado por:** victorarimatea
+**Exposição de motivos:** Registro público do novo repositório de cadernos de
+conhecimento (D04), criado para o projeto Carteira de Serviços da CICS/SES-DF, e
+atualização da descrição do D01, que passou a 33 documentos com a base normativa
+da RENASES (v1.2, 2026-10-22).
+
+### Alterações realizadas
+- `README.md`: v2.2 → v2.3 — D04 incluído no mapa de camadas e na tabela de Documentos; descrição do D01 atualizada (28 → 33 documentos)
+- `CHANGELOG.md`: entrada de 2026-10-23
+
 
 ## v2.2 — 2026-06-15
 

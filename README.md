@@ -10,7 +10,7 @@
 **Automação e Governança do Conhecimento Institucional**
 DTD/SETIS/SES-DF
 
-**Versão:** v2.2 — 2026-06-23
+**Versão:** v2.3 — 2026-10-23
 
 > **Tecnologia pública a serviço da saúde das pessoas.**
 
@@ -54,7 +54,7 @@ Camada 2 — Instrumentos Operacionais (Skills S + Workflows W)
 
 Camada 1 — Conteúdo Institucional (Documentos D + Agendas A + Projetos P)
     D01 doc-governanca-ses-df            D02 mat-cadastro-ses-setis-dtd
-    D03 hub-aprendizagem
+    D03 hub-aprendizagem                 D04 doc-cadernos-conhecimento-ses-df
     A01 agd-dtd (privado)
     P01 prj-telessaude-poc-prisional (privado)
     P02 hub-memoria (privado)
@@ -89,9 +89,10 @@ Camada 1 — Conteúdo Institucional (Documentos D + Agendas A + Projetos P)
 
 | ID | Repositório | Visibilidade | Descrição |
 |---|---|---|---|
-| D01 | [doc-governanca-ses-df](https://github.com/victorarimatea/doc-governanca-ses-df) | Público | 28 documentos transcritos: legislação, portarias, resoluções e referências internacionais |
+| D01 | [doc-governanca-ses-df](https://github.com/victorarimatea/doc-governanca-ses-df) | Público | 33 documentos transcritos: legislação, portarias, resoluções, referências internacionais, instrumentos de planejamento e documentos técnicos |
 | D02 | [mat-cadastro-ses-setis-dtd](https://github.com/victorarimatea/mat-cadastro-ses-setis-dtd) | Público | Matriz de cadastros de referência da DTD/SETIS/SES-DF |
 | D03 | [hub-aprendizagem](https://github.com/victorarimatea/hub-aprendizagem) | Público | Repositório documental reflexivo — boas práticas, benchmarks e lições aprendidas da construção do ecossistema DTD/SETIS |
+| D04 | [doc-cadernos-conhecimento-ses-df](https://github.com/victorarimatea/doc-cadernos-conhecimento-ses-df) | Público | Cadernos de conhecimento para gestores da rede hospitalar da SES-DF — modelo de caderno, vocabulário controlado e cadernos por tema (primeiro: RENASES) |
 
 ### Workflows (W) — memória organizacional de processos
 

@@ -1,3 +1,15 @@
+## [2026-10-23] — Cadernos de conhecimento (D04) + base normativa da RENASES no D01
+
+### Adicionado
+- `doc-cadernos-conhecimento-ses-df` (D04) v1.0 — novo repositório público (OP-A) de cadernos de conhecimento para gestores da rede hospitalar da SES-DF, do projeto Carteira de Serviços da CICS: modelo de caderno v1.0 (escrita padronizada, procedência de cada afirmação, separação entre norma, prática e leitura do projeto, conferência obrigatória a cada mudança estrutural da ferramenta), vocabulário controlado (rascunho) e primeiro caderno — RENASES (v0.2, rascunho) com dossiê de estudo. Consome as normas do D01 por link, sem cópia
+- `doc-governanca-ses-df` (D01) v1.1 → v1.2 (2026-10-22): Decreto 7.508/2011, Portaria GM/MS 841/2012 (RENASES 2012), Resolução CIT 2/2012 e Informe CIT RENASES 2012; nova categoria `08-documentos-tecnicos`; total 29 → 33 documentos
+
+### Atualizado
+- `hub-fonte/sumario.md` v3.17 → v3.18; `CONTEXTO.md` v3.13 → v3.14; `backlog-versoes.md` v0.46
+- `hub-entrada/README.md` v2.2 → v2.3
+
+---
+
 ## [2026-06-24]
 
 ### Atualizado
