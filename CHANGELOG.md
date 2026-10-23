@@ -5,6 +5,7 @@
 - `doc-governanca-ses-df` (D01) v1.1 → v1.2 (2026-10-22): Decreto 7.508/2011, Portaria GM/MS 841/2012 (RENASES 2012), Resolução CIT 2/2012 e Informe CIT RENASES 2012; nova categoria `08-documentos-tecnicos`; total 29 → 33 documentos
 
 ### Atualizado
+- `doc-cadernos-conhecimento-ses-df` (D04) v1.0 → v1.1: passa a ser o lugar único dos cinco cadernos (CNES, SIGTAP, Carteira de serviços, Rede hospitalar, RENASES), trazidos do repositório privado da ferramenta; a cópia automática no Drive passa a ler deste repositório; `hub-fonte/sumario.md` v3.19
 - `hub-fonte/sumario.md` v3.17 → v3.18; `CONTEXTO.md` v3.13 → v3.14; `backlog-versoes.md` v0.46
 - `hub-entrada/README.md` v2.2 → v2.3
 
